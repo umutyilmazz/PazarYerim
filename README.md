@@ -2,7 +2,9 @@
 
 PazarYerim satıcıların e-ticaret sitelerinde ürün ve sipariş yönetimlerini kolayca yapabilmeleri için tasarlandı.
 
+## Not
 
+- urun_stok.py Dosyasında Örnek Birkaç Ürün Bulunmaktadır. Kodun Düzgün Çalışabilmesi İçin Lütfen Dosyaları Beraber Çalıştırınız.
 
 ## Ürün Yönetimi Paneli
 
