@@ -1,2 +1,1 @@
-# PazarYerim
--YetGen Core Python Projesi
+# PazarYerim (YetGen Core Python Projesi)
