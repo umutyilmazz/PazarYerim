@@ -434,4 +434,4 @@ while True:
         print("PazarYerim'den Çıkış Yapıldı.")
         break
     else:
-        print("Hatalı Giriş Yaptınız!")
+        print("Hatalı Giriş Yaptınız!\n")
